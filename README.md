@@ -19,7 +19,7 @@ A modern full-stack homepage application with backend and frontend components.
 
 ### Backend
 - [Node.js] - Runtime environment
-- [Express/NestJS] - Web framework
+- [Express] - Web framework
 - [Mongoose] - Database
 
 ## Getting Started
